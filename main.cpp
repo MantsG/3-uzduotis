@@ -105,6 +105,8 @@ int main(){
             cout<<"failo nuskaitymas uztruko: "<<trukmeSkaitymas<<" ms\n";
         if(Grupe.empty()){
             cout<<"Programa uždaroma, nes nepavyko nuskaityti failo"<<endl;
+            cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+            cin.get();
             return 0;
         }
     }        
@@ -341,6 +343,7 @@ else if(strategijosPasirinkimas == 3){
         cout<<"Failu isvedimas uztruko: "<<trukmeIsvedimas<<" ms\n";
 
 }
+
 
 
 
