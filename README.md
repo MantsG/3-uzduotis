@@ -221,3 +221,28 @@ v1.5 commits 798625b  - 0c2d1d2 - Sutvarkytas visas kodas ir ištrintas „Zmogu
 | **Paveldėjimas**              | Pagrindinė klasė                     | Paveldi iš `Zmogus`                  |
 | **Virtualūs metodai**         | `spausdintiInfo()`, `skaitytiInfo()` | Perrašo virtualius metodus           |
 | **Paskirtis**                 | Apibrėžia bendrą žmogaus struktūrą   | Apibrėžia specifinę studento funkcionalumą            |
+
+
+#v3.0 
+Šioje versijoje buvo sukurtas setup.exe failas.
+
+## Programos diegimas
+
+1. Atsisiųskite `Setup.exe` iš GitHub „Releases“ skilties.
+2. Paleiskite `Setup.exe` (bus paprašyta administratoriaus teisių).
+3. Sekite diegimo nurodymus.
+4. Programa bus įdiegta į `C:\Program Files\VU\Vardenis-Pavardenis`.
+
+## Programos paleidimas
+
+Programą galima paleisti:
+- per Start meniu: `Start → All apps → Studentu rusiavimas`,
+- per Program Files: `Program Files → VU → Vardenis-Pavardenis → Studentu rusiavimas`,
+- per darbalaukio nuorodą.
+
+## Programos pašalinimas
+
+Programą galima pašalinti:
+- per Windows `Settings → Apps → Apps & features`,
+- pasirinkus „Studentu rusiavimas“ ir paspaudus „Uninstall“.
+- per Program Files: `Program Files → VU → Vardenis-Pavardenis → unins000.exe`,
