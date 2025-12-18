@@ -341,13 +341,6 @@ else if(strategijosPasirinkimas == 3){
         cout<<"Failo isvedimas uztruko: "<<trukmeIsvedimas/1000.0<<" s\n";
     else
         cout<<"Failu isvedimas uztruko: "<<trukmeIsvedimas<<" ms\n";
-
+cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+cin.get();
 }
-
-
-
-
-
-
-
-
