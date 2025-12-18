@@ -236,8 +236,8 @@ v1.5 commits 798625b  - 0c2d1d2 - Sutvarkytas visas kodas ir ištrintas „Zmogu
 ## Programos paleidimas
 
 Programą galima paleisti:
-- per Start meniu: `Start → All apps → Studentu rusiavimas`,
-- per Program Files: `Program Files → VU → Vardenis-Pavardenis → Studentu rusiavimas`,
+- per Start meniu: `Start → All apps → Rusiavimas`,
+- per Program Files: `Program Files → VU → Vardenis-Pavardenis → Rusiavimas`,
 - per darbalaukio nuorodą.
 
 ## Programos pašalinimas
